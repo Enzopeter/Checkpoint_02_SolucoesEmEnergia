@@ -36,12 +36,9 @@ As consultas públicas escolhidas **não exigem token**. Caso um serviço passe 
 
 **Seu trabalho:** explore as variáveis e os dados ausentes; apresente ao menos uma visualização e defina `X` e `y`. Use as **primeiras 80% das horas para treino** e as últimas 20% para teste, preservando a ordem temporal. Treine **três regressores diferentes** usando a mesma divisão. Compare **MAE** (W/m²), **MSE** ((W/m²)²) e **R²**; faça um gráfico de valores reais × previstos. Explique o papel da hora do dia e por que estimar radiação **não equivale a prever a geração elétrica**. Não inclua `radiacao_w_m2` ou uma transformação direta dela em `X`.
 
-## Entrega
+## Integrantes
 
-Envie **somente o link para um repositório público no GitHub**. Ele deve conter:
-
-1. Um `README.md` com objetivo, origem e período dos dados, instruções de execução e conclusões das duas tarefas.
-2. O notebook `.ipynb` completo, executável na ordem, com seus imports, análise, treinamento e comparação dos **seis modelos** (três por tarefa), métricas, gráficos e interpretação em texto.
-3. Os dois arquivos CSV gerados, ou instruções completas e verificadas para reproduzi-los a partir das APIs.
-
+Caio Henrique Ferraz da Silva - RM:568992
+Enzo Caruso Peter - RM:570908
+Leonardo Robert Maulicino - RM:570329
 Não publique senhas ou tokens. As tabelas de resultados devem identificar claramente os três algoritmos de cada tarefa e a mesma configuração de avaliação usada na comparação.
