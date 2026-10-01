@@ -3,11 +3,11 @@ Consulte duas APIs públicas, organização de dados e resolução de tarefas
 
 ## Integrantes
 
-|Caio Henrique Ferraz da Silva | | RM:568992 |
+| `Caio Henrique Ferraz da Silva` | `RM:568992` |
 
-| Enzo Caruso Peter | | RM:570908 |
+| `Enzo Caruso Peter` | `RM:570908` |
 
-|Leonardo Robert Maulicino | | RM:570329 |
+| `Leonardo Robert Maulicino` | `RM:570329` |
 
 
 ## Proposta
