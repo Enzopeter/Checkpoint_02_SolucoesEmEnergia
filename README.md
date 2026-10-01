@@ -1,6 +1,15 @@
 # Checkpoint_02_SolucaoEmEnergia
 Consulte duas APIs públicas, organização de dados e resolução de tarefas
 
+## Integrantes
+
+|Caio Henrique Ferraz da Silva | | RM:568992 |
+
+| Enzo Caruso Peter | | RM:570908 |
+
+|Leonardo Robert Maulicino | | RM:570329 |
+
+
 ## Proposta
 
 Use o notebook de apoio para consultar **duas APIs públicas** e gerar os arquivos `aneel_classificacao_orange.csv` e `meteo_regressao_orange.csv`. Em seguida, desenvolva **duas tarefas independentes em Python**: uma de classificação e outra de regressão. **Treine e compare três algoritmos diferentes em cada tarefa.** O notebook fornece apenas a conexão às APIs e a preparação dos CSVs: bibliotecas, modelos, análises e resultados de ML devem ser acrescentados por você.
@@ -35,11 +44,3 @@ As consultas públicas escolhidas **não exigem token**. Caso um serviço passe 
 | `radiacao_w_m2` | `shortwave_radiation` | Radiação solar global horizontal média da hora anterior, em W/m² | Alvo |
 
 **Seu trabalho:** explore as variáveis e os dados ausentes; apresente ao menos uma visualização e defina `X` e `y`. Use as **primeiras 80% das horas para treino** e as últimas 20% para teste, preservando a ordem temporal. Treine **três regressores diferentes** usando a mesma divisão. Compare **MAE** (W/m²), **MSE** ((W/m²)²) e **R²**; faça um gráfico de valores reais × previstos. Explique o papel da hora do dia e por que estimar radiação **não equivale a prever a geração elétrica**. Não inclua `radiacao_w_m2` ou uma transformação direta dela em `X`.
-
-## Integrantes
-
-Caio Henrique Ferraz da Silva - RM:568992
-
-Enzo Caruso Peter - RM:570908
-
-Leonardo Robert Maulicino - RM:570329
