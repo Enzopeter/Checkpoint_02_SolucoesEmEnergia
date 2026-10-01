@@ -39,6 +39,7 @@ As consultas públicas escolhidas **não exigem token**. Caso um serviço passe 
 ## Integrantes
 
 Caio Henrique Ferraz da Silva - RM:568992
+
 Enzo Caruso Peter - RM:570908
+
 Leonardo Robert Maulicino - RM:570329
-Não publique senhas ou tokens. As tabelas de resultados devem identificar claramente os três algoritmos de cada tarefa e a mesma configuração de avaliação usada na comparação.
